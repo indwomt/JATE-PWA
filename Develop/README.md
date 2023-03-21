@@ -1,1 +1,0 @@
-# JATE-PWA
